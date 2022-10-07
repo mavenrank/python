@@ -1,6 +1,0 @@
-# program number 1
-# Find the area of a circle
-import math
-radius = float(input("Enter the radius : "))
-area = math.pi * radius * radius
-print("The area of the circle is : ", area)
